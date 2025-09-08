@@ -1,9 +1,9 @@
 # Thinhinane-Belkessa-Portfolio
 
 
-### Work Experience
+## Work Experience
 
-Software Engineer
+### Software Engineer
 FREELANCE (2024 - Present)
 As a freelance developer, I contributed to the development and optimization of applications in Python and Java.
 Developed web and back-end applications using Django/Python and Spring Boot/Java.
@@ -20,7 +20,7 @@ Designing personalized lesson plans tailored to different learning styles and le
 Supporting students in creating their own video games, animations, and websites to enhance their coding skills in a practical way.
 
 
-Software Engineer
+### Software Engineer
 Société Générale, Paris(2022)
 Worked on the development and maintenance of key applications within the investment banking IT department, contributing across the full software development lifecycle in an Agile/Scrum environment.
 Key Contributions:
@@ -31,7 +31,7 @@ Actively engaged in Scrum ceremonies, including daily stand-ups, sprint planning
 Collaborated with product owners and business analysts to ensure strong business–tech alignment.
 
 
-Software Engineer - DESIGNED AN EPIDEMIC DETECTION, PREVENTION AND CONTROL SYSTEM (January 2021 - July 2021)
+### Software Engineer - DESIGNED AN EPIDEMIC DETECTION, PREVENTION AND CONTROL SYSTEM (January 2021 - July 2021)
 CERIST( SCIENTIFIC AND TECHNICAL INFORMATION RESEARCH CENTER)
 Main functional achievements:
 Detailed requirements specifications to clarify all potentially vague aspectrs of the development and communication to the team.
@@ -46,7 +46,7 @@ Management of anomalies and developments
 Technical development tools: Python, Xml, Dart, Json, SQL, Flutter, Django, Android Studio. Use of Postman API
 
 
-Software Engineer - DESIGNED A MOBILE APPLICATION FOR GARAGE SPACE RESERVATION IN PRIVATE SECTOR(January 2019 - July 2019)
+### Software Engineer - DESIGNED A MOBILE APPLICATION FOR GARAGE SPACE RESERVATION IN PRIVATE SECTOR(January 2019 - July 2019)
 IInternational Company Yassir
 Main functional achievements:
 Detailed requirements specifications to clarify all potentially vague aspectrs of the development and communication to the team. .
@@ -60,7 +60,7 @@ Management of anomalies and evolutions
 Technical development tools: Java, Xml, Php, Json, Python, Sql, Android Studio. Use of Postman API
 
 
-### Education
+## Education
 
 Master of Science (U.S. Equivalency)
 Degree evaluated by SpanTran.
@@ -76,7 +76,7 @@ Bachelor Degree in Computer Science (2019)
 HOUARI BOUMEDIENE UNIVERSITY - Bab Ezzouar (ALGERIA)
 
 
-### CERTIFICATIONS
+## CERTIFICATIONS
 
 CERTIFICATE OF COMPLITION MICROSOFT POWER BI DESKTOP FOR BUSINESS INTELLIGENCE (2023)
 
@@ -84,31 +84,31 @@ IBM Data Analyst Professional Certificate (2024) Certificate Of Achievement Andr
 
 ROYAL SCHOOL - Bab Ezzouar (ALGERIA)
 
-### MAIN SKILLS
-# Languages & Development
+## MAIN SKILLS
+### Languages & Development
 Java (IntelliJ, Android Studio, Visual Studio, VSCode),
 Python (NumPy, Pandas, Jupyter Notebooks, VSCode, IntelliJ), C++, JavaScript (Visual Studio, VSCode), PHP, HTML, CSS, XML, Go, SQL (MySQL, MS-SQL), PL/SQL, NoSQL (MongoDB), Redis, Delphi, Assembleur, Unitex, OPL
-# Front-End & Mobile
+### Front-End & Mobile
 React Native, Flutter, Android Development, HTML/CSS
-# Data / BI / AI
+### Data / BI / AI
 Pandas, Data Cleaning, Data Visualization (Tableau, Power BI),
 Machine Learning (Linear Regression, Logistic Regression, Gradient Boosting, Nearest Neighbor),
 Deep Learning, Data Mining, Data Analysis, NLP (Text Analysis, Clustering), Data Warehousing Structures, SQL, NoSQL, MongoDB, Oracle, Weka
-# Security & IAM
+### Security & IAM
 CyberArk, Active Directory, IAM APIs (REST), Okta, RBAC
-# DevOps & Tools
+### DevOps & Tools
 Git/GitHub, Docker, Kubernetes, IBM CPLEX, Android Studio, Firebase, Latex, Photoshop, VMware, Cisco, Red Panda, Visual Studio, Microsoft Excel, Microsoft Office
-# Modeling & Methodologies
+### Modeling & Methodologies
 UML, Merise, Design Patterns,
 Drafting of general and detailed functional specifications (SFG, SFD), Project Management
-# Networks & Protocols
+### Networks & Protocols
 HTTP, TCP/IP, UDP, ICMP, IPV6
 
 
-# CONTACT INFORMATION
+## CONTACT INFORMATION
 E-mail : belkessathinhinane@hotmail.com
 
-# LANGUAGES
+## LANGUAGES
 
 Fluent in English 
 
