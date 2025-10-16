@@ -5,12 +5,14 @@
 
 ### Software Engineer
 FREELANCE (2024 - Present)
-As a freelance developer, I contributed to the development and optimization of applications in Python and Java.
-Developed web and back-end applications using Django/Python and Spring Boot/Java.
-Integrated data via APIs and relational databases.
-Set up basic CI/CD pipelines (GitLab, Jenkins) and performed unit testing.
-Assisted in monitoring and maintaining applications to ensure reliability.
-Technical skills: Python, Java, Django, Spring Boot, SQL, Git, GitLab/Jenkins.
+Built and maintained web and backend applications across multiple freelance projects, with a focus on performance, scalability, and clean code.
+Developed full-stack applications using Python (Django) and Java (Spring Boot)
+Built dynamic web solutions using WordPress, HTML, CSS, JavaScript, and PHP
+Integrated third-party REST APIs and managed data with relational databases (MySQL, PostgreSQL)
+Implemented CI/CD pipelines using GitLab CI and Jenkins
+Conducted unit testing and ongoing monitoring to improve reliability and performance
+
+Tech Stack: Python, Java, Django, Spring Boot, HTML, CSS, JavaScript, PHP, WordPress, SQL, Git, GitLab, Jenkins
 ### Teacher at CodeNinjas (2023 - Present) Walnut Creek
 Key Achievements:
 As a programming instructor at Code Ninjas, I teach children and young people how to code in a fun and interactive way, using platforms like Scratch, JavaScript, and Python. I guide students through learning programming concepts, game development, and problem-solving techniques, while fostering their creativity and confidence through technology.
