@@ -11,7 +11,7 @@ Integrated data via APIs and relational databases.
 Set up basic CI/CD pipelines (GitLab, Jenkins) and performed unit testing.
 Assisted in monitoring and maintaining applications to ensure reliability.
 Technical skills: Python, Java, Django, Spring Boot, SQL, Git, GitLab/Jenkins.
-Teacher at CodeNinjas (2023 - Present) Walnut Creek
+### Teacher at CodeNinjas (2023 - Present) Walnut Creek
 Key Achievements:
 As a programming instructor at Code Ninjas, I teach children and young people how to code in a fun and interactive way, using platforms like Scratch, JavaScript, and Python. I guide students through learning programming concepts, game development, and problem-solving techniques, while fostering their creativity and confidence through technology.
 Key Responsibilities:
